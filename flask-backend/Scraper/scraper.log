@@ -1,0 +1,2196 @@
+INFO:root:Scraping started
+INFO:root:Scraping complete.
+INFO:root:Scraping started
+INFO:root:Scraping complete.
+INFO:root:Scraping started
+INFO:root:Scraping complete.
+INFO:root:Scraping started
+INFO:root:Scraping complete.
+INFO:root:Scraping started
+INFO:root:Scraping complete.
+INFO:root:Scheduler started
+INFO:root:Scraping started
+INFO:root:Scraping and DB insert complete.
+INFO:root:Scraping started
+INFO:root:Scraping and DB insert complete.
+INFO:root:Scraping started
+INFO:root:Scraping and DB insert complete.
+INFO:root:Scraping started
+INFO:root:Scraping and DB insert complete.
+INFO:root:Scheduler started
+INFO:root:Scraping started
+INFO:root:Scraping and DB insert complete.
+INFO:root:Scraping started
+INFO:root:Scheduler started
+INFO:root:Scraping started
+INFO:root:Scraping and DB insert complete.
+INFO:root:Scraping started
+INFO:root:Scraping and DB insert complete.
+INFO:root:Scraping started
+INFO:root:Scraping and DB insert complete.
+INFO:root:Scraping started
+INFO:root:Scraping and DB insert complete.
+INFO:root:Scraping started
+INFO:root:Scraping and DB insert complete.
+INFO:root:Scraping started
+INFO:root:Scraping and DB insert complete.
+INFO:root:Scraping started
+INFO:root:Scraping and DB insert complete.
+INFO:root:Scraping started
+INFO:root:Scraping and DB insert complete.
+INFO:root:Scraping started
+INFO:root:Scraping and DB insert complete.
+INFO:root:Scraping started
+INFO:root:Scraping and DB insert complete.
+INFO:root:Scraping started
+INFO:root:Scraping and DB insert complete.
+INFO:root:Scraping started
+INFO:root:Scraping and DB insert complete.
+INFO:root:Scraping started
+INFO:root:Scraping and DB insert complete.
+INFO:root:Scraping started
+INFO:root:Scraping and DB insert complete.
+INFO:root:Scraping started
+INFO:root:Scraping and DB insert complete.
+INFO:root:Scheduler started
+INFO:root:Scheduler started
+INFO:root:Scraping started
+INFO:root:Scraping complete.
+INFO:root:Scraping started
+INFO:root:Scraping complete.
+INFO:root:Scraping started
+INFO:root:Scraping complete.
+INFO:root:Scraping started
+INFO:root:Scraping complete.
+INFO:root:Scheduler started
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:root:Scheduler started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 142-016-717
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 15:38:39] "GET /api/jobs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 15:38:39] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 15:39:57] "GET /api/jobs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 15:39:57] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:root:Scraping started
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 15:42:12] "GET /api/jobs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 15:42:12] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 15:42:22] "GET /api/jobs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 15:42:22] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 15:44:13] "GET /api/jobs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 15:44:22] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 15:46:13] "GET /api/jobs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 15:46:22] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 15:48:13] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 15:48:22] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 15:50:13] "GET /api/jobs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 15:50:22] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 15:52:13] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 15:52:22] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 15:54:22] "GET /api/jobs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 15:54:54] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 15:56:22] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 15:56:54] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 15:58:22] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 15:58:54] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 16:00:22] "GET /api/jobs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 16:00:54] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 16:02:22] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 16:02:54] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 16:04:22] "GET /api/jobs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 16:04:54] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 16:06:22] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 16:06:54] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 16:08:22] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 16:08:54] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 16:10:22] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 16:10:54] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 16:12:22] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 16:12:54] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 16:14:22] "GET /api/jobs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 16:14:54] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 16:16:22] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 16:16:54] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 16:18:22] "GET /api/jobs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 16:18:54] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 16:20:22] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 16:20:54] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 16:22:22] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 16:22:54] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 16:24:22] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 16:24:54] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 16:26:22] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 16:26:54] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 16:28:22] "GET /api/jobs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 16:28:54] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 16:30:22] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 16:30:54] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 16:32:22] "GET /api/jobs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 16:32:54] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 16:34:22] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 16:34:54] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 16:36:22] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 16:36:54] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 16:38:22] "GET /api/jobs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 16:38:54] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 16:40:22] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 16:40:54] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 16:42:22] "GET /api/jobs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 16:42:54] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 16:44:22] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 16:44:54] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 16:46:22] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 16:46:54] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 16:48:22] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 16:48:54] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 16:50:22] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 16:50:54] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 16:52:22] "GET /api/jobs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 16:52:54] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 16:54:22] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 16:54:54] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 16:56:22] "GET /api/jobs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 16:56:54] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 16:58:22] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 16:58:54] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 17:00:22] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 17:00:54] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 17:02:22] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 17:02:54] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 17:04:22] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 17:04:54] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 17:06:22] "GET /api/jobs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 17:06:54] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 17:08:22] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 17:08:54] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 17:10:22] "GET /api/jobs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 17:10:54] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 17:12:25] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 17:12:57] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 17:14:25] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 17:14:57] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 17:16:25] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 17:16:57] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 17:18:25] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 17:18:57] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 17:20:25] "GET /api/jobs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 17:20:57] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 17:22:25] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 17:22:57] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 17:24:25] "GET /api/jobs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 17:24:57] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 17:26:25] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 17:26:57] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 17:28:25] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 17:28:57] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 17:30:25] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 17:30:57] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 17:32:25] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 17:32:57] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 17:34:25] "GET /api/jobs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 17:34:57] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 17:36:25] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 17:36:57] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 17:38:25] "GET /api/jobs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 17:38:57] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 17:40:25] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 17:40:57] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 17:42:25] "GET /api/jobs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 17:42:57] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 17:44:25] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 17:44:57] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 17:46:25] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 17:46:57] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 17:48:25] "GET /api/jobs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 17:48:57] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 17:50:25] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 17:50:57] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 17:52:25] "GET /api/jobs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 17:52:57] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 17:54:25] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 17:54:57] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 17:56:25] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 17:56:57] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 17:58:25] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 17:58:57] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 18:00:25] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 18:00:57] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 18:02:25] "GET /api/jobs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 18:02:57] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 18:04:25] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 18:04:57] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 18:06:25] "GET /api/jobs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 18:06:57] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 18:08:25] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 18:08:57] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 18:10:25] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 18:10:57] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 18:12:25] "GET /api/jobs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 18:12:57] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 18:14:25] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 18:14:57] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 18:16:25] "GET /api/jobs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 18:16:57] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 18:18:25] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 18:18:57] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 18:20:25] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 18:20:57] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 18:22:25] "GET /api/jobs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 18:22:57] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:root:Scraping started
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 18:24:25] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 18:24:57] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 18:26:25] "GET /api/jobs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 18:26:57] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 18:28:25] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 18:28:57] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 20:09:15] "GET /api/jobs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 20:09:15] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 20:10:57] "GET /api/jobs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 20:10:57] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:root:Scraping started
+INFO:root:Scraping started
+ERROR:root:Error extracting a job: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=136.0.7103.93)
+Stacktrace:
+	GetHandleVerifier [0x00007FF75FA6CF25+75717]
+	GetHandleVerifier [0x00007FF75FA6CF80+75808]
+	(No symbol) [0x00007FF75F838F9A]
+	(No symbol) [0x00007FF75F824E35]
+	(No symbol) [0x00007FF75F849DB4]
+	(No symbol) [0x00007FF75F8BEE75]
+	(No symbol) [0x00007FF75F8DECC2]
+	(No symbol) [0x00007FF75F8B7153]
+	(No symbol) [0x00007FF75F880421]
+	(No symbol) [0x00007FF75F8811B3]
+	GetHandleVerifier [0x00007FF75FD6D6FD+3223453]
+	GetHandleVerifier [0x00007FF75FD67CA2+3200322]
+	GetHandleVerifier [0x00007FF75FD85AD3+3322739]
+	GetHandleVerifier [0x00007FF75FA869FA+180890]
+	GetHandleVerifier [0x00007FF75FA8E0FF+211359]
+	GetHandleVerifier [0x00007FF75FA75274+109332]
+	GetHandleVerifier [0x00007FF75FA75422+109762]
+	GetHandleVerifier [0x00007FF75FA5BA39+4825]
+	BaseThreadInitThunk [0x00007FFA9747E8D7+23]
+	RtlUserThreadStart [0x00007FFA978B14FC+44]
+
+ERROR:root:Error extracting a job: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF75FA6CF25+75717]
+	GetHandleVerifier [0x00007FF75FA6CF80+75808]
+	(No symbol) [0x00007FF75F838DCC]
+	(No symbol) [0x00007FF75F87F54F]
+	(No symbol) [0x00007FF75F8B7242]
+	(No symbol) [0x00007FF75F8B1C63]
+	(No symbol) [0x00007FF75F8B0D29]
+	(No symbol) [0x00007FF75F805A55]
+	GetHandleVerifier [0x00007FF75FD6D6FD+3223453]
+	GetHandleVerifier [0x00007FF75FD67CA2+3200322]
+	GetHandleVerifier [0x00007FF75FD85AD3+3322739]
+	GetHandleVerifier [0x00007FF75FA869FA+180890]
+	GetHandleVerifier [0x00007FF75FA8E0FF+211359]
+	(No symbol) [0x00007FF75F804AC8]
+	GetHandleVerifier [0x00007FF75FE56FA8+4180040]
+	BaseThreadInitThunk [0x00007FFA9747E8D7+23]
+	RtlUserThreadStart [0x00007FFA978B14FC+44]
+
+ERROR:root:Error extracting a job: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF75FA6CF25+75717]
+	GetHandleVerifier [0x00007FF75FA6CF80+75808]
+	(No symbol) [0x00007FF75F838DCC]
+	(No symbol) [0x00007FF75F87F54F]
+	(No symbol) [0x00007FF75F8B7242]
+	(No symbol) [0x00007FF75F8B1C63]
+	(No symbol) [0x00007FF75F8B0D29]
+	(No symbol) [0x00007FF75F805A55]
+	GetHandleVerifier [0x00007FF75FD6D6FD+3223453]
+	GetHandleVerifier [0x00007FF75FD67CA2+3200322]
+	GetHandleVerifier [0x00007FF75FD85AD3+3322739]
+	GetHandleVerifier [0x00007FF75FA869FA+180890]
+	GetHandleVerifier [0x00007FF75FA8E0FF+211359]
+	(No symbol) [0x00007FF75F804AC8]
+	GetHandleVerifier [0x00007FF75FE56FA8+4180040]
+	BaseThreadInitThunk [0x00007FFA9747E8D7+23]
+	RtlUserThreadStart [0x00007FFA978B14FC+44]
+
+ERROR:root:Error extracting a job: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF75FA6CF25+75717]
+	GetHandleVerifier [0x00007FF75FA6CF80+75808]
+	(No symbol) [0x00007FF75F838DCC]
+	(No symbol) [0x00007FF75F87F54F]
+	(No symbol) [0x00007FF75F8B7242]
+	(No symbol) [0x00007FF75F8B1C63]
+	(No symbol) [0x00007FF75F8B0D29]
+	(No symbol) [0x00007FF75F805A55]
+	GetHandleVerifier [0x00007FF75FD6D6FD+3223453]
+	GetHandleVerifier [0x00007FF75FD67CA2+3200322]
+	GetHandleVerifier [0x00007FF75FD85AD3+3322739]
+	GetHandleVerifier [0x00007FF75FA869FA+180890]
+	GetHandleVerifier [0x00007FF75FA8E0FF+211359]
+	(No symbol) [0x00007FF75F804AC8]
+	GetHandleVerifier [0x00007FF75FE56FA8+4180040]
+	BaseThreadInitThunk [0x00007FFA9747E8D7+23]
+	RtlUserThreadStart [0x00007FFA978B14FC+44]
+
+ERROR:root:Error extracting a job: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF75FA6CF25+75717]
+	GetHandleVerifier [0x00007FF75FA6CF80+75808]
+	(No symbol) [0x00007FF75F838DCC]
+	(No symbol) [0x00007FF75F87F54F]
+	(No symbol) [0x00007FF75F8B7242]
+	(No symbol) [0x00007FF75F8B1C63]
+	(No symbol) [0x00007FF75F8B0D29]
+	(No symbol) [0x00007FF75F805A55]
+	GetHandleVerifier [0x00007FF75FD6D6FD+3223453]
+	GetHandleVerifier [0x00007FF75FD67CA2+3200322]
+	GetHandleVerifier [0x00007FF75FD85AD3+3322739]
+	GetHandleVerifier [0x00007FF75FA869FA+180890]
+	GetHandleVerifier [0x00007FF75FA8E0FF+211359]
+	(No symbol) [0x00007FF75F804AC8]
+	GetHandleVerifier [0x00007FF75FE56FA8+4180040]
+	BaseThreadInitThunk [0x00007FFA9747E8D7+23]
+	RtlUserThreadStart [0x00007FFA978B14FC+44]
+
+ERROR:root:Error extracting a job: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF75FA6CF25+75717]
+	GetHandleVerifier [0x00007FF75FA6CF80+75808]
+	(No symbol) [0x00007FF75F838DCC]
+	(No symbol) [0x00007FF75F87F54F]
+	(No symbol) [0x00007FF75F8B7242]
+	(No symbol) [0x00007FF75F8B1C63]
+	(No symbol) [0x00007FF75F8B0D29]
+	(No symbol) [0x00007FF75F805A55]
+	GetHandleVerifier [0x00007FF75FD6D6FD+3223453]
+	GetHandleVerifier [0x00007FF75FD67CA2+3200322]
+	GetHandleVerifier [0x00007FF75FD85AD3+3322739]
+	GetHandleVerifier [0x00007FF75FA869FA+180890]
+	GetHandleVerifier [0x00007FF75FA8E0FF+211359]
+	(No symbol) [0x00007FF75F804AC8]
+	GetHandleVerifier [0x00007FF75FE56FA8+4180040]
+	BaseThreadInitThunk [0x00007FFA9747E8D7+23]
+	RtlUserThreadStart [0x00007FFA978B14FC+44]
+
+ERROR:root:Error extracting a job: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF75FA6CF25+75717]
+	GetHandleVerifier [0x00007FF75FA6CF80+75808]
+	(No symbol) [0x00007FF75F838DCC]
+	(No symbol) [0x00007FF75F87F54F]
+	(No symbol) [0x00007FF75F8B7242]
+	(No symbol) [0x00007FF75F8B1C63]
+	(No symbol) [0x00007FF75F8B0D29]
+	(No symbol) [0x00007FF75F805A55]
+	GetHandleVerifier [0x00007FF75FD6D6FD+3223453]
+	GetHandleVerifier [0x00007FF75FD67CA2+3200322]
+	GetHandleVerifier [0x00007FF75FD85AD3+3322739]
+	GetHandleVerifier [0x00007FF75FA869FA+180890]
+	GetHandleVerifier [0x00007FF75FA8E0FF+211359]
+	(No symbol) [0x00007FF75F804AC8]
+	GetHandleVerifier [0x00007FF75FE56FA8+4180040]
+	BaseThreadInitThunk [0x00007FFA9747E8D7+23]
+	RtlUserThreadStart [0x00007FFA978B14FC+44]
+
+ERROR:root:Error extracting a job: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF75FA6CF25+75717]
+	GetHandleVerifier [0x00007FF75FA6CF80+75808]
+	(No symbol) [0x00007FF75F838DCC]
+	(No symbol) [0x00007FF75F87F54F]
+	(No symbol) [0x00007FF75F8B7242]
+	(No symbol) [0x00007FF75F8B1C63]
+	(No symbol) [0x00007FF75F8B0D29]
+	(No symbol) [0x00007FF75F805A55]
+	GetHandleVerifier [0x00007FF75FD6D6FD+3223453]
+	GetHandleVerifier [0x00007FF75FD67CA2+3200322]
+	GetHandleVerifier [0x00007FF75FD85AD3+3322739]
+	GetHandleVerifier [0x00007FF75FA869FA+180890]
+	GetHandleVerifier [0x00007FF75FA8E0FF+211359]
+	(No symbol) [0x00007FF75F804AC8]
+	GetHandleVerifier [0x00007FF75FE56FA8+4180040]
+	BaseThreadInitThunk [0x00007FFA9747E8D7+23]
+	RtlUserThreadStart [0x00007FFA978B14FC+44]
+
+ERROR:root:Error extracting a job: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF75FA6CF25+75717]
+	GetHandleVerifier [0x00007FF75FA6CF80+75808]
+	(No symbol) [0x00007FF75F838DCC]
+	(No symbol) [0x00007FF75F87F54F]
+	(No symbol) [0x00007FF75F8B7242]
+	(No symbol) [0x00007FF75F8B1C63]
+	(No symbol) [0x00007FF75F8B0D29]
+	(No symbol) [0x00007FF75F805A55]
+	GetHandleVerifier [0x00007FF75FD6D6FD+3223453]
+	GetHandleVerifier [0x00007FF75FD67CA2+3200322]
+	GetHandleVerifier [0x00007FF75FD85AD3+3322739]
+	GetHandleVerifier [0x00007FF75FA869FA+180890]
+	GetHandleVerifier [0x00007FF75FA8E0FF+211359]
+	(No symbol) [0x00007FF75F804AC8]
+	GetHandleVerifier [0x00007FF75FE56FA8+4180040]
+	BaseThreadInitThunk [0x00007FFA9747E8D7+23]
+	RtlUserThreadStart [0x00007FFA978B14FC+44]
+
+ERROR:root:Error extracting a job: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF75FA6CF25+75717]
+	GetHandleVerifier [0x00007FF75FA6CF80+75808]
+	(No symbol) [0x00007FF75F838DCC]
+	(No symbol) [0x00007FF75F87F54F]
+	(No symbol) [0x00007FF75F8B7242]
+	(No symbol) [0x00007FF75F8B1C63]
+	(No symbol) [0x00007FF75F8B0D29]
+	(No symbol) [0x00007FF75F805A55]
+	GetHandleVerifier [0x00007FF75FD6D6FD+3223453]
+	GetHandleVerifier [0x00007FF75FD67CA2+3200322]
+	GetHandleVerifier [0x00007FF75FD85AD3+3322739]
+	GetHandleVerifier [0x00007FF75FA869FA+180890]
+	GetHandleVerifier [0x00007FF75FA8E0FF+211359]
+	(No symbol) [0x00007FF75F804AC8]
+	GetHandleVerifier [0x00007FF75FE56FA8+4180040]
+	BaseThreadInitThunk [0x00007FFA9747E8D7+23]
+	RtlUserThreadStart [0x00007FFA978B14FC+44]
+
+ERROR:root:Error extracting a job: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF75FA6CF25+75717]
+	GetHandleVerifier [0x00007FF75FA6CF80+75808]
+	(No symbol) [0x00007FF75F838DCC]
+	(No symbol) [0x00007FF75F87F54F]
+	(No symbol) [0x00007FF75F8B7242]
+	(No symbol) [0x00007FF75F8B1C63]
+	(No symbol) [0x00007FF75F8B0D29]
+	(No symbol) [0x00007FF75F805A55]
+	GetHandleVerifier [0x00007FF75FD6D6FD+3223453]
+	GetHandleVerifier [0x00007FF75FD67CA2+3200322]
+	GetHandleVerifier [0x00007FF75FD85AD3+3322739]
+	GetHandleVerifier [0x00007FF75FA869FA+180890]
+	GetHandleVerifier [0x00007FF75FA8E0FF+211359]
+	(No symbol) [0x00007FF75F804AC8]
+	GetHandleVerifier [0x00007FF75FE56FA8+4180040]
+	BaseThreadInitThunk [0x00007FFA9747E8D7+23]
+	RtlUserThreadStart [0x00007FFA978B14FC+44]
+
+ERROR:root:Error extracting a job: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF75FA6CF25+75717]
+	GetHandleVerifier [0x00007FF75FA6CF80+75808]
+	(No symbol) [0x00007FF75F838DCC]
+	(No symbol) [0x00007FF75F87F54F]
+	(No symbol) [0x00007FF75F8B7242]
+	(No symbol) [0x00007FF75F8B1C63]
+	(No symbol) [0x00007FF75F8B0D29]
+	(No symbol) [0x00007FF75F805A55]
+	GetHandleVerifier [0x00007FF75FD6D6FD+3223453]
+	GetHandleVerifier [0x00007FF75FD67CA2+3200322]
+	GetHandleVerifier [0x00007FF75FD85AD3+3322739]
+	GetHandleVerifier [0x00007FF75FA869FA+180890]
+	GetHandleVerifier [0x00007FF75FA8E0FF+211359]
+	(No symbol) [0x00007FF75F804AC8]
+	GetHandleVerifier [0x00007FF75FE56FA8+4180040]
+	BaseThreadInitThunk [0x00007FFA9747E8D7+23]
+	RtlUserThreadStart [0x00007FFA978B14FC+44]
+
+ERROR:root:Error extracting a job: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF75FA6CF25+75717]
+	GetHandleVerifier [0x00007FF75FA6CF80+75808]
+	(No symbol) [0x00007FF75F838DCC]
+	(No symbol) [0x00007FF75F87F54F]
+	(No symbol) [0x00007FF75F8B7242]
+	(No symbol) [0x00007FF75F8B1C63]
+	(No symbol) [0x00007FF75F8B0D29]
+	(No symbol) [0x00007FF75F805A55]
+	GetHandleVerifier [0x00007FF75FD6D6FD+3223453]
+	GetHandleVerifier [0x00007FF75FD67CA2+3200322]
+	GetHandleVerifier [0x00007FF75FD85AD3+3322739]
+	GetHandleVerifier [0x00007FF75FA869FA+180890]
+	GetHandleVerifier [0x00007FF75FA8E0FF+211359]
+	(No symbol) [0x00007FF75F804AC8]
+	GetHandleVerifier [0x00007FF75FE56FA8+4180040]
+	BaseThreadInitThunk [0x00007FFA9747E8D7+23]
+	RtlUserThreadStart [0x00007FFA978B14FC+44]
+
+ERROR:root:Error extracting a job: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF75FA6CF25+75717]
+	GetHandleVerifier [0x00007FF75FA6CF80+75808]
+	(No symbol) [0x00007FF75F838DCC]
+	(No symbol) [0x00007FF75F87F54F]
+	(No symbol) [0x00007FF75F8B7242]
+	(No symbol) [0x00007FF75F8B1C63]
+	(No symbol) [0x00007FF75F8B0D29]
+	(No symbol) [0x00007FF75F805A55]
+	GetHandleVerifier [0x00007FF75FD6D6FD+3223453]
+	GetHandleVerifier [0x00007FF75FD67CA2+3200322]
+	GetHandleVerifier [0x00007FF75FD85AD3+3322739]
+	GetHandleVerifier [0x00007FF75FA869FA+180890]
+	GetHandleVerifier [0x00007FF75FA8E0FF+211359]
+	(No symbol) [0x00007FF75F804AC8]
+	GetHandleVerifier [0x00007FF75FE56FA8+4180040]
+	BaseThreadInitThunk [0x00007FFA9747E8D7+23]
+	RtlUserThreadStart [0x00007FFA978B14FC+44]
+
+ERROR:root:Error extracting a job: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF75FA6CF25+75717]
+	GetHandleVerifier [0x00007FF75FA6CF80+75808]
+	(No symbol) [0x00007FF75F838DCC]
+	(No symbol) [0x00007FF75F87F54F]
+	(No symbol) [0x00007FF75F8B7242]
+	(No symbol) [0x00007FF75F8B1C63]
+	(No symbol) [0x00007FF75F8B0D29]
+	(No symbol) [0x00007FF75F805A55]
+	GetHandleVerifier [0x00007FF75FD6D6FD+3223453]
+	GetHandleVerifier [0x00007FF75FD67CA2+3200322]
+	GetHandleVerifier [0x00007FF75FD85AD3+3322739]
+	GetHandleVerifier [0x00007FF75FA869FA+180890]
+	GetHandleVerifier [0x00007FF75FA8E0FF+211359]
+	(No symbol) [0x00007FF75F804AC8]
+	GetHandleVerifier [0x00007FF75FE56FA8+4180040]
+	BaseThreadInitThunk [0x00007FFA9747E8D7+23]
+	RtlUserThreadStart [0x00007FFA978B14FC+44]
+
+ERROR:root:Error extracting a job: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF75FA6CF25+75717]
+	GetHandleVerifier [0x00007FF75FA6CF80+75808]
+	(No symbol) [0x00007FF75F838DCC]
+	(No symbol) [0x00007FF75F87F54F]
+	(No symbol) [0x00007FF75F8B7242]
+	(No symbol) [0x00007FF75F8B1C63]
+	(No symbol) [0x00007FF75F8B0D29]
+	(No symbol) [0x00007FF75F805A55]
+	GetHandleVerifier [0x00007FF75FD6D6FD+3223453]
+	GetHandleVerifier [0x00007FF75FD67CA2+3200322]
+	GetHandleVerifier [0x00007FF75FD85AD3+3322739]
+	GetHandleVerifier [0x00007FF75FA869FA+180890]
+	GetHandleVerifier [0x00007FF75FA8E0FF+211359]
+	(No symbol) [0x00007FF75F804AC8]
+	GetHandleVerifier [0x00007FF75FE56FA8+4180040]
+	BaseThreadInitThunk [0x00007FFA9747E8D7+23]
+	RtlUserThreadStart [0x00007FFA978B14FC+44]
+
+ERROR:root:Error extracting a job: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF75FA6CF25+75717]
+	GetHandleVerifier [0x00007FF75FA6CF80+75808]
+	(No symbol) [0x00007FF75F838DCC]
+	(No symbol) [0x00007FF75F87F54F]
+	(No symbol) [0x00007FF75F8B7242]
+	(No symbol) [0x00007FF75F8B1C63]
+	(No symbol) [0x00007FF75F8B0D29]
+	(No symbol) [0x00007FF75F805A55]
+	GetHandleVerifier [0x00007FF75FD6D6FD+3223453]
+	GetHandleVerifier [0x00007FF75FD67CA2+3200322]
+	GetHandleVerifier [0x00007FF75FD85AD3+3322739]
+	GetHandleVerifier [0x00007FF75FA869FA+180890]
+	GetHandleVerifier [0x00007FF75FA8E0FF+211359]
+	(No symbol) [0x00007FF75F804AC8]
+	GetHandleVerifier [0x00007FF75FE56FA8+4180040]
+	BaseThreadInitThunk [0x00007FFA9747E8D7+23]
+	RtlUserThreadStart [0x00007FFA978B14FC+44]
+
+ERROR:root:Error extracting a job: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF75FA6CF25+75717]
+	GetHandleVerifier [0x00007FF75FA6CF80+75808]
+	(No symbol) [0x00007FF75F838DCC]
+	(No symbol) [0x00007FF75F87F54F]
+	(No symbol) [0x00007FF75F8B7242]
+	(No symbol) [0x00007FF75F8B1C63]
+	(No symbol) [0x00007FF75F8B0D29]
+	(No symbol) [0x00007FF75F805A55]
+	GetHandleVerifier [0x00007FF75FD6D6FD+3223453]
+	GetHandleVerifier [0x00007FF75FD67CA2+3200322]
+	GetHandleVerifier [0x00007FF75FD85AD3+3322739]
+	GetHandleVerifier [0x00007FF75FA869FA+180890]
+	GetHandleVerifier [0x00007FF75FA8E0FF+211359]
+	(No symbol) [0x00007FF75F804AC8]
+	GetHandleVerifier [0x00007FF75FE56FA8+4180040]
+	BaseThreadInitThunk [0x00007FFA9747E8D7+23]
+	RtlUserThreadStart [0x00007FFA978B14FC+44]
+
+ERROR:root:Error extracting a job: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF75FA6CF25+75717]
+	GetHandleVerifier [0x00007FF75FA6CF80+75808]
+	(No symbol) [0x00007FF75F838DCC]
+	(No symbol) [0x00007FF75F87F54F]
+	(No symbol) [0x00007FF75F8B7242]
+	(No symbol) [0x00007FF75F8B1C63]
+	(No symbol) [0x00007FF75F8B0D29]
+	(No symbol) [0x00007FF75F805A55]
+	GetHandleVerifier [0x00007FF75FD6D6FD+3223453]
+	GetHandleVerifier [0x00007FF75FD67CA2+3200322]
+	GetHandleVerifier [0x00007FF75FD85AD3+3322739]
+	GetHandleVerifier [0x00007FF75FA869FA+180890]
+	GetHandleVerifier [0x00007FF75FA8E0FF+211359]
+	(No symbol) [0x00007FF75F804AC8]
+	GetHandleVerifier [0x00007FF75FE56FA8+4180040]
+	BaseThreadInitThunk [0x00007FFA9747E8D7+23]
+	RtlUserThreadStart [0x00007FFA978B14FC+44]
+
+ERROR:root:Error extracting a job: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF75FA6CF25+75717]
+	GetHandleVerifier [0x00007FF75FA6CF80+75808]
+	(No symbol) [0x00007FF75F838DCC]
+	(No symbol) [0x00007FF75F87F54F]
+	(No symbol) [0x00007FF75F8B7242]
+	(No symbol) [0x00007FF75F8B1C63]
+	(No symbol) [0x00007FF75F8B0D29]
+	(No symbol) [0x00007FF75F805A55]
+	GetHandleVerifier [0x00007FF75FD6D6FD+3223453]
+	GetHandleVerifier [0x00007FF75FD67CA2+3200322]
+	GetHandleVerifier [0x00007FF75FD85AD3+3322739]
+	GetHandleVerifier [0x00007FF75FA869FA+180890]
+	GetHandleVerifier [0x00007FF75FA8E0FF+211359]
+	(No symbol) [0x00007FF75F804AC8]
+	GetHandleVerifier [0x00007FF75FE56FA8+4180040]
+	BaseThreadInitThunk [0x00007FFA9747E8D7+23]
+	RtlUserThreadStart [0x00007FFA978B14FC+44]
+
+ERROR:root:Error extracting a job: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF75FA6CF25+75717]
+	GetHandleVerifier [0x00007FF75FA6CF80+75808]
+	(No symbol) [0x00007FF75F838DCC]
+	(No symbol) [0x00007FF75F87F54F]
+	(No symbol) [0x00007FF75F8B7242]
+	(No symbol) [0x00007FF75F8B1C63]
+	(No symbol) [0x00007FF75F8B0D29]
+	(No symbol) [0x00007FF75F805A55]
+	GetHandleVerifier [0x00007FF75FD6D6FD+3223453]
+	GetHandleVerifier [0x00007FF75FD67CA2+3200322]
+	GetHandleVerifier [0x00007FF75FD85AD3+3322739]
+	GetHandleVerifier [0x00007FF75FA869FA+180890]
+	GetHandleVerifier [0x00007FF75FA8E0FF+211359]
+	(No symbol) [0x00007FF75F804AC8]
+	GetHandleVerifier [0x00007FF75FE56FA8+4180040]
+	BaseThreadInitThunk [0x00007FFA9747E8D7+23]
+	RtlUserThreadStart [0x00007FFA978B14FC+44]
+
+ERROR:root:Error extracting a job: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF75FA6CF25+75717]
+	GetHandleVerifier [0x00007FF75FA6CF80+75808]
+	(No symbol) [0x00007FF75F838DCC]
+	(No symbol) [0x00007FF75F87F54F]
+	(No symbol) [0x00007FF75F8B7242]
+	(No symbol) [0x00007FF75F8B1C63]
+	(No symbol) [0x00007FF75F8B0D29]
+	(No symbol) [0x00007FF75F805A55]
+	GetHandleVerifier [0x00007FF75FD6D6FD+3223453]
+	GetHandleVerifier [0x00007FF75FD67CA2+3200322]
+	GetHandleVerifier [0x00007FF75FD85AD3+3322739]
+	GetHandleVerifier [0x00007FF75FA869FA+180890]
+	GetHandleVerifier [0x00007FF75FA8E0FF+211359]
+	(No symbol) [0x00007FF75F804AC8]
+	GetHandleVerifier [0x00007FF75FE56FA8+4180040]
+	BaseThreadInitThunk [0x00007FFA9747E8D7+23]
+	RtlUserThreadStart [0x00007FFA978B14FC+44]
+
+ERROR:root:Error extracting a job: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF75FA6CF25+75717]
+	GetHandleVerifier [0x00007FF75FA6CF80+75808]
+	(No symbol) [0x00007FF75F838DCC]
+	(No symbol) [0x00007FF75F87F54F]
+	(No symbol) [0x00007FF75F8B7242]
+	(No symbol) [0x00007FF75F8B1C63]
+	(No symbol) [0x00007FF75F8B0D29]
+	(No symbol) [0x00007FF75F805A55]
+	GetHandleVerifier [0x00007FF75FD6D6FD+3223453]
+	GetHandleVerifier [0x00007FF75FD67CA2+3200322]
+	GetHandleVerifier [0x00007FF75FD85AD3+3322739]
+	GetHandleVerifier [0x00007FF75FA869FA+180890]
+	GetHandleVerifier [0x00007FF75FA8E0FF+211359]
+	(No symbol) [0x00007FF75F804AC8]
+	GetHandleVerifier [0x00007FF75FE56FA8+4180040]
+	BaseThreadInitThunk [0x00007FFA9747E8D7+23]
+	RtlUserThreadStart [0x00007FFA978B14FC+44]
+
+ERROR:root:Error extracting a job: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF75FA6CF25+75717]
+	GetHandleVerifier [0x00007FF75FA6CF80+75808]
+	(No symbol) [0x00007FF75F838DCC]
+	(No symbol) [0x00007FF75F87F54F]
+	(No symbol) [0x00007FF75F8B7242]
+	(No symbol) [0x00007FF75F8B1C63]
+	(No symbol) [0x00007FF75F8B0D29]
+	(No symbol) [0x00007FF75F805A55]
+	GetHandleVerifier [0x00007FF75FD6D6FD+3223453]
+	GetHandleVerifier [0x00007FF75FD67CA2+3200322]
+	GetHandleVerifier [0x00007FF75FD85AD3+3322739]
+	GetHandleVerifier [0x00007FF75FA869FA+180890]
+	GetHandleVerifier [0x00007FF75FA8E0FF+211359]
+	(No symbol) [0x00007FF75F804AC8]
+	GetHandleVerifier [0x00007FF75FE56FA8+4180040]
+	BaseThreadInitThunk [0x00007FFA9747E8D7+23]
+	RtlUserThreadStart [0x00007FFA978B14FC+44]
+
+ERROR:root:Error extracting a job: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF75FA6CF25+75717]
+	GetHandleVerifier [0x00007FF75FA6CF80+75808]
+	(No symbol) [0x00007FF75F838DCC]
+	(No symbol) [0x00007FF75F87F54F]
+	(No symbol) [0x00007FF75F8B7242]
+	(No symbol) [0x00007FF75F8B1C63]
+	(No symbol) [0x00007FF75F8B0D29]
+	(No symbol) [0x00007FF75F805A55]
+	GetHandleVerifier [0x00007FF75FD6D6FD+3223453]
+	GetHandleVerifier [0x00007FF75FD67CA2+3200322]
+	GetHandleVerifier [0x00007FF75FD85AD3+3322739]
+	GetHandleVerifier [0x00007FF75FA869FA+180890]
+	GetHandleVerifier [0x00007FF75FA8E0FF+211359]
+	(No symbol) [0x00007FF75F804AC8]
+	GetHandleVerifier [0x00007FF75FE56FA8+4180040]
+	BaseThreadInitThunk [0x00007FFA9747E8D7+23]
+	RtlUserThreadStart [0x00007FFA978B14FC+44]
+
+ERROR:root:Error extracting a job: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF75FA6CF25+75717]
+	GetHandleVerifier [0x00007FF75FA6CF80+75808]
+	(No symbol) [0x00007FF75F838DCC]
+	(No symbol) [0x00007FF75F87F54F]
+	(No symbol) [0x00007FF75F8B7242]
+	(No symbol) [0x00007FF75F8B1C63]
+	(No symbol) [0x00007FF75F8B0D29]
+	(No symbol) [0x00007FF75F805A55]
+	GetHandleVerifier [0x00007FF75FD6D6FD+3223453]
+	GetHandleVerifier [0x00007FF75FD67CA2+3200322]
+	GetHandleVerifier [0x00007FF75FD85AD3+3322739]
+	GetHandleVerifier [0x00007FF75FA869FA+180890]
+	GetHandleVerifier [0x00007FF75FA8E0FF+211359]
+	(No symbol) [0x00007FF75F804AC8]
+	GetHandleVerifier [0x00007FF75FE56FA8+4180040]
+	BaseThreadInitThunk [0x00007FFA9747E8D7+23]
+	RtlUserThreadStart [0x00007FFA978B14FC+44]
+
+ERROR:root:Error extracting a job: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF75FA6CF25+75717]
+	GetHandleVerifier [0x00007FF75FA6CF80+75808]
+	(No symbol) [0x00007FF75F838DCC]
+	(No symbol) [0x00007FF75F87F54F]
+	(No symbol) [0x00007FF75F8B7242]
+	(No symbol) [0x00007FF75F8B1C63]
+	(No symbol) [0x00007FF75F8B0D29]
+	(No symbol) [0x00007FF75F805A55]
+	GetHandleVerifier [0x00007FF75FD6D6FD+3223453]
+	GetHandleVerifier [0x00007FF75FD67CA2+3200322]
+	GetHandleVerifier [0x00007FF75FD85AD3+3322739]
+	GetHandleVerifier [0x00007FF75FA869FA+180890]
+	GetHandleVerifier [0x00007FF75FA8E0FF+211359]
+	(No symbol) [0x00007FF75F804AC8]
+	GetHandleVerifier [0x00007FF75FE56FA8+4180040]
+	BaseThreadInitThunk [0x00007FFA9747E8D7+23]
+	RtlUserThreadStart [0x00007FFA978B14FC+44]
+
+ERROR:root:Error extracting a job: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF75FA6CF25+75717]
+	GetHandleVerifier [0x00007FF75FA6CF80+75808]
+	(No symbol) [0x00007FF75F838DCC]
+	(No symbol) [0x00007FF75F87F54F]
+	(No symbol) [0x00007FF75F8B7242]
+	(No symbol) [0x00007FF75F8B1C63]
+	(No symbol) [0x00007FF75F8B0D29]
+	(No symbol) [0x00007FF75F805A55]
+	GetHandleVerifier [0x00007FF75FD6D6FD+3223453]
+	GetHandleVerifier [0x00007FF75FD67CA2+3200322]
+	GetHandleVerifier [0x00007FF75FD85AD3+3322739]
+	GetHandleVerifier [0x00007FF75FA869FA+180890]
+	GetHandleVerifier [0x00007FF75FA8E0FF+211359]
+	(No symbol) [0x00007FF75F804AC8]
+	GetHandleVerifier [0x00007FF75FE56FA8+4180040]
+	BaseThreadInitThunk [0x00007FFA9747E8D7+23]
+	RtlUserThreadStart [0x00007FFA978B14FC+44]
+
+INFO:root:Scraping complete.
+ERROR:root:Error extracting a job: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF75FA6CF25+75717]
+	GetHandleVerifier [0x00007FF75FA6CF80+75808]
+	(No symbol) [0x00007FF75F838DCC]
+	(No symbol) [0x00007FF75F87F54F]
+	(No symbol) [0x00007FF75F8B7242]
+	(No symbol) [0x00007FF75F8B1C63]
+	(No symbol) [0x00007FF75F8B0D29]
+	(No symbol) [0x00007FF75F805A55]
+	GetHandleVerifier [0x00007FF75FD6D6FD+3223453]
+	GetHandleVerifier [0x00007FF75FD67CA2+3200322]
+	GetHandleVerifier [0x00007FF75FD85AD3+3322739]
+	GetHandleVerifier [0x00007FF75FA869FA+180890]
+	GetHandleVerifier [0x00007FF75FA8E0FF+211359]
+	(No symbol) [0x00007FF75F804AC8]
+	GetHandleVerifier [0x00007FF75FE56FA8+4180040]
+	BaseThreadInitThunk [0x00007FFA9747E8D7+23]
+	RtlUserThreadStart [0x00007FFA978B14FC+44]
+
+ERROR:root:Error extracting a job: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF75FA6CF25+75717]
+	GetHandleVerifier [0x00007FF75FA6CF80+75808]
+	(No symbol) [0x00007FF75F838DCC]
+	(No symbol) [0x00007FF75F87F54F]
+	(No symbol) [0x00007FF75F8B7242]
+	(No symbol) [0x00007FF75F8B1C63]
+	(No symbol) [0x00007FF75F8B0D29]
+	(No symbol) [0x00007FF75F805A55]
+	GetHandleVerifier [0x00007FF75FD6D6FD+3223453]
+	GetHandleVerifier [0x00007FF75FD67CA2+3200322]
+	GetHandleVerifier [0x00007FF75FD85AD3+3322739]
+	GetHandleVerifier [0x00007FF75FA869FA+180890]
+	GetHandleVerifier [0x00007FF75FA8E0FF+211359]
+	(No symbol) [0x00007FF75F804AC8]
+	GetHandleVerifier [0x00007FF75FE56FA8+4180040]
+	BaseThreadInitThunk [0x00007FFA9747E8D7+23]
+	RtlUserThreadStart [0x00007FFA978B14FC+44]
+
+ERROR:root:Error extracting a job: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF75FA6CF25+75717]
+	GetHandleVerifier [0x00007FF75FA6CF80+75808]
+	(No symbol) [0x00007FF75F838DCC]
+	(No symbol) [0x00007FF75F87F54F]
+	(No symbol) [0x00007FF75F8B7242]
+	(No symbol) [0x00007FF75F8B1C63]
+	(No symbol) [0x00007FF75F8B0D29]
+	(No symbol) [0x00007FF75F805A55]
+	GetHandleVerifier [0x00007FF75FD6D6FD+3223453]
+	GetHandleVerifier [0x00007FF75FD67CA2+3200322]
+	GetHandleVerifier [0x00007FF75FD85AD3+3322739]
+	GetHandleVerifier [0x00007FF75FA869FA+180890]
+	GetHandleVerifier [0x00007FF75FA8E0FF+211359]
+	(No symbol) [0x00007FF75F804AC8]
+	GetHandleVerifier [0x00007FF75FE56FA8+4180040]
+	BaseThreadInitThunk [0x00007FFA9747E8D7+23]
+	RtlUserThreadStart [0x00007FFA978B14FC+44]
+
+ERROR:root:Error extracting a job: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF75FA6CF25+75717]
+	GetHandleVerifier [0x00007FF75FA6CF80+75808]
+	(No symbol) [0x00007FF75F838DCC]
+	(No symbol) [0x00007FF75F87F54F]
+	(No symbol) [0x00007FF75F8B7242]
+	(No symbol) [0x00007FF75F8B1C63]
+	(No symbol) [0x00007FF75F8B0D29]
+	(No symbol) [0x00007FF75F805A55]
+	GetHandleVerifier [0x00007FF75FD6D6FD+3223453]
+	GetHandleVerifier [0x00007FF75FD67CA2+3200322]
+	GetHandleVerifier [0x00007FF75FD85AD3+3322739]
+	GetHandleVerifier [0x00007FF75FA869FA+180890]
+	GetHandleVerifier [0x00007FF75FA8E0FF+211359]
+	(No symbol) [0x00007FF75F804AC8]
+	GetHandleVerifier [0x00007FF75FE56FA8+4180040]
+	BaseThreadInitThunk [0x00007FFA9747E8D7+23]
+	RtlUserThreadStart [0x00007FFA978B14FC+44]
+
+ERROR:root:Error extracting a job: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF75FA6CF25+75717]
+	GetHandleVerifier [0x00007FF75FA6CF80+75808]
+	(No symbol) [0x00007FF75F838DCC]
+	(No symbol) [0x00007FF75F87F54F]
+	(No symbol) [0x00007FF75F8B7242]
+	(No symbol) [0x00007FF75F8B1C63]
+	(No symbol) [0x00007FF75F8B0D29]
+	(No symbol) [0x00007FF75F805A55]
+	GetHandleVerifier [0x00007FF75FD6D6FD+3223453]
+	GetHandleVerifier [0x00007FF75FD67CA2+3200322]
+	GetHandleVerifier [0x00007FF75FD85AD3+3322739]
+	GetHandleVerifier [0x00007FF75FA869FA+180890]
+	GetHandleVerifier [0x00007FF75FA8E0FF+211359]
+	(No symbol) [0x00007FF75F804AC8]
+	GetHandleVerifier [0x00007FF75FE56FA8+4180040]
+	BaseThreadInitThunk [0x00007FFA9747E8D7+23]
+	RtlUserThreadStart [0x00007FFA978B14FC+44]
+
+ERROR:root:Error extracting a job: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF75FA6CF25+75717]
+	GetHandleVerifier [0x00007FF75FA6CF80+75808]
+	(No symbol) [0x00007FF75F838DCC]
+	(No symbol) [0x00007FF75F87F54F]
+	(No symbol) [0x00007FF75F8B7242]
+	(No symbol) [0x00007FF75F8B1C63]
+	(No symbol) [0x00007FF75F8B0D29]
+	(No symbol) [0x00007FF75F805A55]
+	GetHandleVerifier [0x00007FF75FD6D6FD+3223453]
+	GetHandleVerifier [0x00007FF75FD67CA2+3200322]
+	GetHandleVerifier [0x00007FF75FD85AD3+3322739]
+	GetHandleVerifier [0x00007FF75FA869FA+180890]
+	GetHandleVerifier [0x00007FF75FA8E0FF+211359]
+	(No symbol) [0x00007FF75F804AC8]
+	GetHandleVerifier [0x00007FF75FE56FA8+4180040]
+	BaseThreadInitThunk [0x00007FFA9747E8D7+23]
+	RtlUserThreadStart [0x00007FFA978B14FC+44]
+
+ERROR:root:Error extracting a job: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF75FA6CF25+75717]
+	GetHandleVerifier [0x00007FF75FA6CF80+75808]
+	(No symbol) [0x00007FF75F838DCC]
+	(No symbol) [0x00007FF75F87F54F]
+	(No symbol) [0x00007FF75F8B7242]
+	(No symbol) [0x00007FF75F8B1C63]
+	(No symbol) [0x00007FF75F8B0D29]
+	(No symbol) [0x00007FF75F805A55]
+	GetHandleVerifier [0x00007FF75FD6D6FD+3223453]
+	GetHandleVerifier [0x00007FF75FD67CA2+3200322]
+	GetHandleVerifier [0x00007FF75FD85AD3+3322739]
+	GetHandleVerifier [0x00007FF75FA869FA+180890]
+	GetHandleVerifier [0x00007FF75FA8E0FF+211359]
+	(No symbol) [0x00007FF75F804AC8]
+	GetHandleVerifier [0x00007FF75FE56FA8+4180040]
+	BaseThreadInitThunk [0x00007FFA9747E8D7+23]
+	RtlUserThreadStart [0x00007FFA978B14FC+44]
+
+ERROR:root:Error extracting a job: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF75FA6CF25+75717]
+	GetHandleVerifier [0x00007FF75FA6CF80+75808]
+	(No symbol) [0x00007FF75F838DCC]
+	(No symbol) [0x00007FF75F87F54F]
+	(No symbol) [0x00007FF75F8B7242]
+	(No symbol) [0x00007FF75F8B1C63]
+	(No symbol) [0x00007FF75F8B0D29]
+	(No symbol) [0x00007FF75F805A55]
+	GetHandleVerifier [0x00007FF75FD6D6FD+3223453]
+	GetHandleVerifier [0x00007FF75FD67CA2+3200322]
+	GetHandleVerifier [0x00007FF75FD85AD3+3322739]
+	GetHandleVerifier [0x00007FF75FA869FA+180890]
+	GetHandleVerifier [0x00007FF75FA8E0FF+211359]
+	(No symbol) [0x00007FF75F804AC8]
+	GetHandleVerifier [0x00007FF75FE56FA8+4180040]
+	BaseThreadInitThunk [0x00007FFA9747E8D7+23]
+	RtlUserThreadStart [0x00007FFA978B14FC+44]
+
+ERROR:root:Error extracting a job: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF75FA6CF25+75717]
+	GetHandleVerifier [0x00007FF75FA6CF80+75808]
+	(No symbol) [0x00007FF75F838DCC]
+	(No symbol) [0x00007FF75F87F54F]
+	(No symbol) [0x00007FF75F8B7242]
+	(No symbol) [0x00007FF75F8B1C63]
+	(No symbol) [0x00007FF75F8B0D29]
+	(No symbol) [0x00007FF75F805A55]
+	GetHandleVerifier [0x00007FF75FD6D6FD+3223453]
+	GetHandleVerifier [0x00007FF75FD67CA2+3200322]
+	GetHandleVerifier [0x00007FF75FD85AD3+3322739]
+	GetHandleVerifier [0x00007FF75FA869FA+180890]
+	GetHandleVerifier [0x00007FF75FA8E0FF+211359]
+	(No symbol) [0x00007FF75F804AC8]
+	GetHandleVerifier [0x00007FF75FE56FA8+4180040]
+	BaseThreadInitThunk [0x00007FFA9747E8D7+23]
+	RtlUserThreadStart [0x00007FFA978B14FC+44]
+
+ERROR:root:Error extracting a job: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF75FA6CF25+75717]
+	GetHandleVerifier [0x00007FF75FA6CF80+75808]
+	(No symbol) [0x00007FF75F838DCC]
+	(No symbol) [0x00007FF75F87F54F]
+	(No symbol) [0x00007FF75F8B7242]
+	(No symbol) [0x00007FF75F8B1C63]
+	(No symbol) [0x00007FF75F8B0D29]
+	(No symbol) [0x00007FF75F805A55]
+	GetHandleVerifier [0x00007FF75FD6D6FD+3223453]
+	GetHandleVerifier [0x00007FF75FD67CA2+3200322]
+	GetHandleVerifier [0x00007FF75FD85AD3+3322739]
+	GetHandleVerifier [0x00007FF75FA869FA+180890]
+	GetHandleVerifier [0x00007FF75FA8E0FF+211359]
+	(No symbol) [0x00007FF75F804AC8]
+	GetHandleVerifier [0x00007FF75FE56FA8+4180040]
+	BaseThreadInitThunk [0x00007FFA9747E8D7+23]
+	RtlUserThreadStart [0x00007FFA978B14FC+44]
+
+ERROR:root:Error extracting a job: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF75FA6CF25+75717]
+	GetHandleVerifier [0x00007FF75FA6CF80+75808]
+	(No symbol) [0x00007FF75F838DCC]
+	(No symbol) [0x00007FF75F87F54F]
+	(No symbol) [0x00007FF75F8B7242]
+	(No symbol) [0x00007FF75F8B1C63]
+	(No symbol) [0x00007FF75F8B0D29]
+	(No symbol) [0x00007FF75F805A55]
+	GetHandleVerifier [0x00007FF75FD6D6FD+3223453]
+	GetHandleVerifier [0x00007FF75FD67CA2+3200322]
+	GetHandleVerifier [0x00007FF75FD85AD3+3322739]
+	GetHandleVerifier [0x00007FF75FA869FA+180890]
+	GetHandleVerifier [0x00007FF75FA8E0FF+211359]
+	(No symbol) [0x00007FF75F804AC8]
+	GetHandleVerifier [0x00007FF75FE56FA8+4180040]
+	BaseThreadInitThunk [0x00007FFA9747E8D7+23]
+	RtlUserThreadStart [0x00007FFA978B14FC+44]
+
+ERROR:root:Error extracting a job: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF75FA6CF25+75717]
+	GetHandleVerifier [0x00007FF75FA6CF80+75808]
+	(No symbol) [0x00007FF75F838DCC]
+	(No symbol) [0x00007FF75F87F54F]
+	(No symbol) [0x00007FF75F8B7242]
+	(No symbol) [0x00007FF75F8B1C63]
+	(No symbol) [0x00007FF75F8B0D29]
+	(No symbol) [0x00007FF75F805A55]
+	GetHandleVerifier [0x00007FF75FD6D6FD+3223453]
+	GetHandleVerifier [0x00007FF75FD67CA2+3200322]
+	GetHandleVerifier [0x00007FF75FD85AD3+3322739]
+	GetHandleVerifier [0x00007FF75FA869FA+180890]
+	GetHandleVerifier [0x00007FF75FA8E0FF+211359]
+	(No symbol) [0x00007FF75F804AC8]
+	GetHandleVerifier [0x00007FF75FE56FA8+4180040]
+	BaseThreadInitThunk [0x00007FFA9747E8D7+23]
+	RtlUserThreadStart [0x00007FFA978B14FC+44]
+
+ERROR:root:Error extracting a job: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF75FA6CF25+75717]
+	GetHandleVerifier [0x00007FF75FA6CF80+75808]
+	(No symbol) [0x00007FF75F838DCC]
+	(No symbol) [0x00007FF75F87F54F]
+	(No symbol) [0x00007FF75F8B7242]
+	(No symbol) [0x00007FF75F8B1C63]
+	(No symbol) [0x00007FF75F8B0D29]
+	(No symbol) [0x00007FF75F805A55]
+	GetHandleVerifier [0x00007FF75FD6D6FD+3223453]
+	GetHandleVerifier [0x00007FF75FD67CA2+3200322]
+	GetHandleVerifier [0x00007FF75FD85AD3+3322739]
+	GetHandleVerifier [0x00007FF75FA869FA+180890]
+	GetHandleVerifier [0x00007FF75FA8E0FF+211359]
+	(No symbol) [0x00007FF75F804AC8]
+	GetHandleVerifier [0x00007FF75FE56FA8+4180040]
+	BaseThreadInitThunk [0x00007FFA9747E8D7+23]
+	RtlUserThreadStart [0x00007FFA978B14FC+44]
+
+ERROR:root:Error extracting a job: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF75FA6CF25+75717]
+	GetHandleVerifier [0x00007FF75FA6CF80+75808]
+	(No symbol) [0x00007FF75F838DCC]
+	(No symbol) [0x00007FF75F87F54F]
+	(No symbol) [0x00007FF75F8B7242]
+	(No symbol) [0x00007FF75F8B1C63]
+	(No symbol) [0x00007FF75F8B0D29]
+	(No symbol) [0x00007FF75F805A55]
+	GetHandleVerifier [0x00007FF75FD6D6FD+3223453]
+	GetHandleVerifier [0x00007FF75FD67CA2+3200322]
+	GetHandleVerifier [0x00007FF75FD85AD3+3322739]
+	GetHandleVerifier [0x00007FF75FA869FA+180890]
+	GetHandleVerifier [0x00007FF75FA8E0FF+211359]
+	(No symbol) [0x00007FF75F804AC8]
+	GetHandleVerifier [0x00007FF75FE56FA8+4180040]
+	BaseThreadInitThunk [0x00007FFA9747E8D7+23]
+	RtlUserThreadStart [0x00007FFA978B14FC+44]
+
+ERROR:root:Error extracting a job: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF75FA6CF25+75717]
+	GetHandleVerifier [0x00007FF75FA6CF80+75808]
+	(No symbol) [0x00007FF75F838DCC]
+	(No symbol) [0x00007FF75F87F54F]
+	(No symbol) [0x00007FF75F8B7242]
+	(No symbol) [0x00007FF75F8B1C63]
+	(No symbol) [0x00007FF75F8B0D29]
+	(No symbol) [0x00007FF75F805A55]
+	GetHandleVerifier [0x00007FF75FD6D6FD+3223453]
+	GetHandleVerifier [0x00007FF75FD67CA2+3200322]
+	GetHandleVerifier [0x00007FF75FD85AD3+3322739]
+	GetHandleVerifier [0x00007FF75FA869FA+180890]
+	GetHandleVerifier [0x00007FF75FA8E0FF+211359]
+	(No symbol) [0x00007FF75F804AC8]
+	GetHandleVerifier [0x00007FF75FE56FA8+4180040]
+	BaseThreadInitThunk [0x00007FFA9747E8D7+23]
+	RtlUserThreadStart [0x00007FFA978B14FC+44]
+
+ERROR:root:Error extracting a job: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF75FA6CF25+75717]
+	GetHandleVerifier [0x00007FF75FA6CF80+75808]
+	(No symbol) [0x00007FF75F838DCC]
+	(No symbol) [0x00007FF75F87F54F]
+	(No symbol) [0x00007FF75F8B7242]
+	(No symbol) [0x00007FF75F8B1C63]
+	(No symbol) [0x00007FF75F8B0D29]
+	(No symbol) [0x00007FF75F805A55]
+	GetHandleVerifier [0x00007FF75FD6D6FD+3223453]
+	GetHandleVerifier [0x00007FF75FD67CA2+3200322]
+	GetHandleVerifier [0x00007FF75FD85AD3+3322739]
+	GetHandleVerifier [0x00007FF75FA869FA+180890]
+	GetHandleVerifier [0x00007FF75FA8E0FF+211359]
+	(No symbol) [0x00007FF75F804AC8]
+	GetHandleVerifier [0x00007FF75FE56FA8+4180040]
+	BaseThreadInitThunk [0x00007FFA9747E8D7+23]
+	RtlUserThreadStart [0x00007FFA978B14FC+44]
+
+ERROR:root:Error extracting a job: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF75FA6CF25+75717]
+	GetHandleVerifier [0x00007FF75FA6CF80+75808]
+	(No symbol) [0x00007FF75F838DCC]
+	(No symbol) [0x00007FF75F87F54F]
+	(No symbol) [0x00007FF75F8B7242]
+	(No symbol) [0x00007FF75F8B1C63]
+	(No symbol) [0x00007FF75F8B0D29]
+	(No symbol) [0x00007FF75F805A55]
+	GetHandleVerifier [0x00007FF75FD6D6FD+3223453]
+	GetHandleVerifier [0x00007FF75FD67CA2+3200322]
+	GetHandleVerifier [0x00007FF75FD85AD3+3322739]
+	GetHandleVerifier [0x00007FF75FA869FA+180890]
+	GetHandleVerifier [0x00007FF75FA8E0FF+211359]
+	(No symbol) [0x00007FF75F804AC8]
+	GetHandleVerifier [0x00007FF75FE56FA8+4180040]
+	BaseThreadInitThunk [0x00007FFA9747E8D7+23]
+	RtlUserThreadStart [0x00007FFA978B14FC+44]
+
+ERROR:root:Error extracting a job: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF75FA6CF25+75717]
+	GetHandleVerifier [0x00007FF75FA6CF80+75808]
+	(No symbol) [0x00007FF75F838DCC]
+	(No symbol) [0x00007FF75F87F54F]
+	(No symbol) [0x00007FF75F8B7242]
+	(No symbol) [0x00007FF75F8B1C63]
+	(No symbol) [0x00007FF75F8B0D29]
+	(No symbol) [0x00007FF75F805A55]
+	GetHandleVerifier [0x00007FF75FD6D6FD+3223453]
+	GetHandleVerifier [0x00007FF75FD67CA2+3200322]
+	GetHandleVerifier [0x00007FF75FD85AD3+3322739]
+	GetHandleVerifier [0x00007FF75FA869FA+180890]
+	GetHandleVerifier [0x00007FF75FA8E0FF+211359]
+	(No symbol) [0x00007FF75F804AC8]
+	GetHandleVerifier [0x00007FF75FE56FA8+4180040]
+	BaseThreadInitThunk [0x00007FFA9747E8D7+23]
+	RtlUserThreadStart [0x00007FFA978B14FC+44]
+
+ERROR:root:Error extracting a job: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF75FA6CF25+75717]
+	GetHandleVerifier [0x00007FF75FA6CF80+75808]
+	(No symbol) [0x00007FF75F838DCC]
+	(No symbol) [0x00007FF75F87F54F]
+	(No symbol) [0x00007FF75F8B7242]
+	(No symbol) [0x00007FF75F8B1C63]
+	(No symbol) [0x00007FF75F8B0D29]
+	(No symbol) [0x00007FF75F805A55]
+	GetHandleVerifier [0x00007FF75FD6D6FD+3223453]
+	GetHandleVerifier [0x00007FF75FD67CA2+3200322]
+	GetHandleVerifier [0x00007FF75FD85AD3+3322739]
+	GetHandleVerifier [0x00007FF75FA869FA+180890]
+	GetHandleVerifier [0x00007FF75FA8E0FF+211359]
+	(No symbol) [0x00007FF75F804AC8]
+	GetHandleVerifier [0x00007FF75FE56FA8+4180040]
+	BaseThreadInitThunk [0x00007FFA9747E8D7+23]
+	RtlUserThreadStart [0x00007FFA978B14FC+44]
+
+ERROR:root:Error extracting a job: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF75FA6CF25+75717]
+	GetHandleVerifier [0x00007FF75FA6CF80+75808]
+	(No symbol) [0x00007FF75F838DCC]
+	(No symbol) [0x00007FF75F87F54F]
+	(No symbol) [0x00007FF75F8B7242]
+	(No symbol) [0x00007FF75F8B1C63]
+	(No symbol) [0x00007FF75F8B0D29]
+	(No symbol) [0x00007FF75F805A55]
+	GetHandleVerifier [0x00007FF75FD6D6FD+3223453]
+	GetHandleVerifier [0x00007FF75FD67CA2+3200322]
+	GetHandleVerifier [0x00007FF75FD85AD3+3322739]
+	GetHandleVerifier [0x00007FF75FA869FA+180890]
+	GetHandleVerifier [0x00007FF75FA8E0FF+211359]
+	(No symbol) [0x00007FF75F804AC8]
+	GetHandleVerifier [0x00007FF75FE56FA8+4180040]
+	BaseThreadInitThunk [0x00007FFA9747E8D7+23]
+	RtlUserThreadStart [0x00007FFA978B14FC+44]
+
+ERROR:root:Error extracting a job: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF75FA6CF25+75717]
+	GetHandleVerifier [0x00007FF75FA6CF80+75808]
+	(No symbol) [0x00007FF75F838DCC]
+	(No symbol) [0x00007FF75F87F54F]
+	(No symbol) [0x00007FF75F8B7242]
+	(No symbol) [0x00007FF75F8B1C63]
+	(No symbol) [0x00007FF75F8B0D29]
+	(No symbol) [0x00007FF75F805A55]
+	GetHandleVerifier [0x00007FF75FD6D6FD+3223453]
+	GetHandleVerifier [0x00007FF75FD67CA2+3200322]
+	GetHandleVerifier [0x00007FF75FD85AD3+3322739]
+	GetHandleVerifier [0x00007FF75FA869FA+180890]
+	GetHandleVerifier [0x00007FF75FA8E0FF+211359]
+	(No symbol) [0x00007FF75F804AC8]
+	GetHandleVerifier [0x00007FF75FE56FA8+4180040]
+	BaseThreadInitThunk [0x00007FFA9747E8D7+23]
+	RtlUserThreadStart [0x00007FFA978B14FC+44]
+
+ERROR:root:Error extracting a job: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF75FA6CF25+75717]
+	GetHandleVerifier [0x00007FF75FA6CF80+75808]
+	(No symbol) [0x00007FF75F838DCC]
+	(No symbol) [0x00007FF75F87F54F]
+	(No symbol) [0x00007FF75F8B7242]
+	(No symbol) [0x00007FF75F8B1C63]
+	(No symbol) [0x00007FF75F8B0D29]
+	(No symbol) [0x00007FF75F805A55]
+	GetHandleVerifier [0x00007FF75FD6D6FD+3223453]
+	GetHandleVerifier [0x00007FF75FD67CA2+3200322]
+	GetHandleVerifier [0x00007FF75FD85AD3+3322739]
+	GetHandleVerifier [0x00007FF75FA869FA+180890]
+	GetHandleVerifier [0x00007FF75FA8E0FF+211359]
+	(No symbol) [0x00007FF75F804AC8]
+	GetHandleVerifier [0x00007FF75FE56FA8+4180040]
+	BaseThreadInitThunk [0x00007FFA9747E8D7+23]
+	RtlUserThreadStart [0x00007FFA978B14FC+44]
+
+ERROR:root:Error extracting a job: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF75FA6CF25+75717]
+	GetHandleVerifier [0x00007FF75FA6CF80+75808]
+	(No symbol) [0x00007FF75F838DCC]
+	(No symbol) [0x00007FF75F87F54F]
+	(No symbol) [0x00007FF75F8B7242]
+	(No symbol) [0x00007FF75F8B1C63]
+	(No symbol) [0x00007FF75F8B0D29]
+	(No symbol) [0x00007FF75F805A55]
+	GetHandleVerifier [0x00007FF75FD6D6FD+3223453]
+	GetHandleVerifier [0x00007FF75FD67CA2+3200322]
+	GetHandleVerifier [0x00007FF75FD85AD3+3322739]
+	GetHandleVerifier [0x00007FF75FA869FA+180890]
+	GetHandleVerifier [0x00007FF75FA8E0FF+211359]
+	(No symbol) [0x00007FF75F804AC8]
+	GetHandleVerifier [0x00007FF75FE56FA8+4180040]
+	BaseThreadInitThunk [0x00007FFA9747E8D7+23]
+	RtlUserThreadStart [0x00007FFA978B14FC+44]
+
+ERROR:root:Error extracting a job: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF75FA6CF25+75717]
+	GetHandleVerifier [0x00007FF75FA6CF80+75808]
+	(No symbol) [0x00007FF75F838DCC]
+	(No symbol) [0x00007FF75F87F54F]
+	(No symbol) [0x00007FF75F8B7242]
+	(No symbol) [0x00007FF75F8B1C63]
+	(No symbol) [0x00007FF75F8B0D29]
+	(No symbol) [0x00007FF75F805A55]
+	GetHandleVerifier [0x00007FF75FD6D6FD+3223453]
+	GetHandleVerifier [0x00007FF75FD67CA2+3200322]
+	GetHandleVerifier [0x00007FF75FD85AD3+3322739]
+	GetHandleVerifier [0x00007FF75FA869FA+180890]
+	GetHandleVerifier [0x00007FF75FA8E0FF+211359]
+	(No symbol) [0x00007FF75F804AC8]
+	GetHandleVerifier [0x00007FF75FE56FA8+4180040]
+	BaseThreadInitThunk [0x00007FFA9747E8D7+23]
+	RtlUserThreadStart [0x00007FFA978B14FC+44]
+
+ERROR:root:Error extracting a job: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF75FA6CF25+75717]
+	GetHandleVerifier [0x00007FF75FA6CF80+75808]
+	(No symbol) [0x00007FF75F838DCC]
+	(No symbol) [0x00007FF75F87F54F]
+	(No symbol) [0x00007FF75F8B7242]
+	(No symbol) [0x00007FF75F8B1C63]
+	(No symbol) [0x00007FF75F8B0D29]
+	(No symbol) [0x00007FF75F805A55]
+	GetHandleVerifier [0x00007FF75FD6D6FD+3223453]
+	GetHandleVerifier [0x00007FF75FD67CA2+3200322]
+	GetHandleVerifier [0x00007FF75FD85AD3+3322739]
+	GetHandleVerifier [0x00007FF75FA869FA+180890]
+	GetHandleVerifier [0x00007FF75FA8E0FF+211359]
+	(No symbol) [0x00007FF75F804AC8]
+	GetHandleVerifier [0x00007FF75FE56FA8+4180040]
+	BaseThreadInitThunk [0x00007FFA9747E8D7+23]
+	RtlUserThreadStart [0x00007FFA978B14FC+44]
+
+ERROR:root:Error extracting a job: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF75FA6CF25+75717]
+	GetHandleVerifier [0x00007FF75FA6CF80+75808]
+	(No symbol) [0x00007FF75F838DCC]
+	(No symbol) [0x00007FF75F87F54F]
+	(No symbol) [0x00007FF75F8B7242]
+	(No symbol) [0x00007FF75F8B1C63]
+	(No symbol) [0x00007FF75F8B0D29]
+	(No symbol) [0x00007FF75F805A55]
+	GetHandleVerifier [0x00007FF75FD6D6FD+3223453]
+	GetHandleVerifier [0x00007FF75FD67CA2+3200322]
+	GetHandleVerifier [0x00007FF75FD85AD3+3322739]
+	GetHandleVerifier [0x00007FF75FA869FA+180890]
+	GetHandleVerifier [0x00007FF75FA8E0FF+211359]
+	(No symbol) [0x00007FF75F804AC8]
+	GetHandleVerifier [0x00007FF75FE56FA8+4180040]
+	BaseThreadInitThunk [0x00007FFA9747E8D7+23]
+	RtlUserThreadStart [0x00007FFA978B14FC+44]
+
+ERROR:root:Error extracting a job: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF75FA6CF25+75717]
+	GetHandleVerifier [0x00007FF75FA6CF80+75808]
+	(No symbol) [0x00007FF75F838DCC]
+	(No symbol) [0x00007FF75F87F54F]
+	(No symbol) [0x00007FF75F8B7242]
+	(No symbol) [0x00007FF75F8B1C63]
+	(No symbol) [0x00007FF75F8B0D29]
+	(No symbol) [0x00007FF75F805A55]
+	GetHandleVerifier [0x00007FF75FD6D6FD+3223453]
+	GetHandleVerifier [0x00007FF75FD67CA2+3200322]
+	GetHandleVerifier [0x00007FF75FD85AD3+3322739]
+	GetHandleVerifier [0x00007FF75FA869FA+180890]
+	GetHandleVerifier [0x00007FF75FA8E0FF+211359]
+	(No symbol) [0x00007FF75F804AC8]
+	GetHandleVerifier [0x00007FF75FE56FA8+4180040]
+	BaseThreadInitThunk [0x00007FFA9747E8D7+23]
+	RtlUserThreadStart [0x00007FFA978B14FC+44]
+
+ERROR:root:Error extracting a job: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF75FA6CF25+75717]
+	GetHandleVerifier [0x00007FF75FA6CF80+75808]
+	(No symbol) [0x00007FF75F838DCC]
+	(No symbol) [0x00007FF75F87F54F]
+	(No symbol) [0x00007FF75F8B7242]
+	(No symbol) [0x00007FF75F8B1C63]
+	(No symbol) [0x00007FF75F8B0D29]
+	(No symbol) [0x00007FF75F805A55]
+	GetHandleVerifier [0x00007FF75FD6D6FD+3223453]
+	GetHandleVerifier [0x00007FF75FD67CA2+3200322]
+	GetHandleVerifier [0x00007FF75FD85AD3+3322739]
+	GetHandleVerifier [0x00007FF75FA869FA+180890]
+	GetHandleVerifier [0x00007FF75FA8E0FF+211359]
+	(No symbol) [0x00007FF75F804AC8]
+	GetHandleVerifier [0x00007FF75FE56FA8+4180040]
+	BaseThreadInitThunk [0x00007FFA9747E8D7+23]
+	RtlUserThreadStart [0x00007FFA978B14FC+44]
+
+ERROR:root:Error extracting a job: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF75FA6CF25+75717]
+	GetHandleVerifier [0x00007FF75FA6CF80+75808]
+	(No symbol) [0x00007FF75F838DCC]
+	(No symbol) [0x00007FF75F87F54F]
+	(No symbol) [0x00007FF75F8B7242]
+	(No symbol) [0x00007FF75F8B1C63]
+	(No symbol) [0x00007FF75F8B0D29]
+	(No symbol) [0x00007FF75F805A55]
+	GetHandleVerifier [0x00007FF75FD6D6FD+3223453]
+	GetHandleVerifier [0x00007FF75FD67CA2+3200322]
+	GetHandleVerifier [0x00007FF75FD85AD3+3322739]
+	GetHandleVerifier [0x00007FF75FA869FA+180890]
+	GetHandleVerifier [0x00007FF75FA8E0FF+211359]
+	(No symbol) [0x00007FF75F804AC8]
+	GetHandleVerifier [0x00007FF75FE56FA8+4180040]
+	BaseThreadInitThunk [0x00007FFA9747E8D7+23]
+	RtlUserThreadStart [0x00007FFA978B14FC+44]
+
+INFO:root:Scraping complete.
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 23:35:10] "GET /api/jobs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 23:35:10] "GET /api/jobs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 23:35:13] "GET /api/jobs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 23:35:13] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 23:36:37] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 23:37:14] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 23:38:39] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 23:39:14] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 23:40:41] "GET /api/jobs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 23:41:14] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:werkzeug: * Detected change in 'C:\\Users\\Hassan\\Desktop\\BitBash\\flask-backend\\scraper\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Scheduler started
+INFO:root:Scheduler started
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:root:Scheduler started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 142-016-717
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 23:43:14] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 23:44:44] "GET /api/jobs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 23:44:45] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 23:46:45] "GET /api/jobs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 23:46:47] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 23:48:45] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 23:48:49] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 23:50:45] "GET /api/jobs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 23:50:51] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 23:52:45] "GET /api/jobs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 23:52:51] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 23:54:45] "GET /api/jobs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 23:54:51] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:werkzeug: * Detected change in 'C:\\Users\\Hassan\\Desktop\\BitBash\\flask-backend\\scraper\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Scheduler started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 142-016-717
+ERROR:root:Error extracting a job: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+INFO:root:Scheduler started
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:root:Scheduler started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 142-016-717
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 23:56:18] "GET /api/jobs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 23:56:18] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 23:56:44] "[35m[1mPOST /api/jobs HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 23:56:51] "GET /api/jobs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 23:56:51] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:root:Scraping started
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 23:58:19] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 23:58:51] "GET /api/jobs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/May/2025 23:58:51] "GET /api/jobs HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Hassan\\Desktop\\BitBash\\flask-backend\\scraper\\models.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Scheduler started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 142-016-717
+INFO:root:Scraping started
+INFO:werkzeug:127.0.0.1 - - [08/May/2025 00:00:19] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [08/May/2025 00:00:51] "GET /api/jobs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/May/2025 00:00:51] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping complete.
+INFO:root:Scheduler started
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:root:Scheduler started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 142-016-717
+INFO:werkzeug:127.0.0.1 - - [08/May/2025 00:01:29] "GET /api/jobs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/May/2025 00:01:29] "GET /api/jobs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/May/2025 00:01:31] "GET /api/jobs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/May/2025 00:01:31] "GET /api/jobs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/May/2025 00:01:48] "GET /api/jobs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/May/2025 00:01:48] "GET /api/jobs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/May/2025 00:02:21] "[35m[1mPOST /api/jobs HTTP/1.1[0m" 500 -
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:werkzeug:127.0.0.1 - - [08/May/2025 00:02:51] "GET /api/jobs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/May/2025 00:02:51] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [08/May/2025 00:03:32] "GET /api/jobs HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Hassan\\Desktop\\BitBash\\flask-backend\\scraper\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Scheduler started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 142-016-717
+INFO:werkzeug:127.0.0.1 - - [08/May/2025 00:03:48] "GET /api/jobs HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Hassan\\Desktop\\BitBash\\flask-backend\\scraper\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Scheduler started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 142-016-717
+INFO:werkzeug:127.0.0.1 - - [08/May/2025 00:03:53] "[35m[1mPOST /api/jobs HTTP/1.1[0m" 500 -
+INFO:root:Scraping started
+INFO:werkzeug: * Detected change in 'C:\\Users\\Hassan\\Desktop\\BitBash\\flask-backend\\scraper\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Scheduler started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 142-016-717
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [08/May/2025 00:04:39] "[35m[1mPOST /api/jobs HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [08/May/2025 00:04:51] "GET /api/jobs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/May/2025 00:04:51] "GET /api/jobs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/May/2025 00:04:51] "GET /static/uploads/Screenshot_2025-05-07_133657.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/May/2025 00:05:32] "GET /api/jobs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/May/2025 00:05:32] "[36mGET /static/uploads/Screenshot_2025-05-07_133657.png HTTP/1.1[0m" 304 -
+INFO:root:Scraping started
+INFO:root:Scraping started
+ERROR:root:Error during scraping: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+INFO:root:Scheduler started
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:root:Scheduler started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 142-016-717
+INFO:werkzeug:127.0.0.1 - - [08/May/2025 00:05:48] "GET /api/jobs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/May/2025 00:05:48] "[36mGET /static/uploads/Screenshot_2025-05-07_133657.png HTTP/1.1[0m" 304 -
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:werkzeug:127.0.0.1 - - [08/May/2025 00:06:51] "GET /api/jobs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/May/2025 00:06:51] "GET /api/jobs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/May/2025 00:06:55] "[35m[1mPOST /api/jobs HTTP/1.1[0m" 500 -
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [08/May/2025 00:07:32] "GET /api/jobs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/May/2025 00:07:48] "GET /api/jobs HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Hassan\\Desktop\\BitBash\\flask-backend\\scraper\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Scheduler started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 142-016-717
+INFO:werkzeug:127.0.0.1 - - [08/May/2025 00:07:55] "[35m[1mPOST /api/jobs HTTP/1.1[0m" 201 -
+INFO:werkzeug:127.0.0.1 - - [08/May/2025 00:07:55] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:werkzeug:127.0.0.1 - - [08/May/2025 00:08:51] "GET /api/jobs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/May/2025 00:08:51] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [08/May/2025 00:09:05] "[35m[1mPOST /api/jobs HTTP/1.1[0m" 201 -
+INFO:werkzeug:127.0.0.1 - - [08/May/2025 00:09:05] "GET /api/jobs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/May/2025 00:09:05] "GET /static/uploads/Screenshot_2025-05-07_133657.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/May/2025 00:09:05] "GET /static/uploads/legal-and-general.jpg HTTP/1.1" 200 -
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [08/May/2025 00:09:32] "GET /api/jobs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/May/2025 00:09:32] "[36mGET /static/uploads/legal-and-general.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/May/2025 00:09:48] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:werkzeug:127.0.0.1 - - [08/May/2025 00:10:08] "OPTIONS /api/jobs/31 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/May/2025 00:10:08] "DELETE /api/jobs/31 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/May/2025 00:10:10] "OPTIONS /api/jobs/32 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/May/2025 00:10:10] "DELETE /api/jobs/32 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/May/2025 00:10:12] "OPTIONS /api/jobs/33 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/May/2025 00:10:12] "DELETE /api/jobs/33 HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [08/May/2025 00:10:51] "GET /api/jobs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/May/2025 00:10:51] "GET /api/jobs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/May/2025 00:10:51] "[36mGET /static/uploads/legal-and-general.jpg HTTP/1.1[0m" 304 -
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [08/May/2025 00:11:32] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:werkzeug: * Detected change in 'C:\\Users\\Hassan\\Desktop\\BitBash\\flask-backend\\scraper\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Scheduler started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 142-016-717
+INFO:werkzeug: * Detected change in 'C:\\Users\\Hassan\\Desktop\\BitBash\\flask-backend\\scraper\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Scheduler started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 142-016-717
+INFO:werkzeug:127.0.0.1 - - [08/May/2025 00:11:48] "GET /api/jobs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/May/2025 00:12:05] "[35m[1mPOST /api/jobs HTTP/1.1[0m" 201 -
+INFO:werkzeug:127.0.0.1 - - [08/May/2025 00:12:05] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping complete.
+INFO:root:Scraping started
+INFO:werkzeug:127.0.0.1 - - [08/May/2025 00:12:51] "GET /api/jobs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/May/2025 00:12:51] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:werkzeug:127.0.0.1 - - [08/May/2025 00:13:23] "GET /api/jobs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/May/2025 00:13:23] "GET /api/jobs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/May/2025 00:13:23] "GET /static/uploads/legal-and-general.jpg HTTP/1.1" 200 -
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [08/May/2025 00:13:48] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [08/May/2025 00:15:48] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [08/May/2025 00:17:50] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:werkzeug:127.0.0.1 - - [08/May/2025 00:18:10] "GET /api/jobs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/May/2025 00:18:10] "GET /api/jobs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/May/2025 00:18:10] "[36mGET /static/uploads/legal-and-general.jpg HTTP/1.1[0m" 304 -
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:werkzeug:127.0.0.1 - - [08/May/2025 00:20:10] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [08/May/2025 00:22:11] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping complete.
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [08/May/2025 00:23:44] "[36mGET /static/uploads/legal-and-general.jpg HTTP/1.1[0m" 304 -
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [08/May/2025 00:24:06] "[35m[1mPOST /api/jobs HTTP/1.1[0m" 201 -
+INFO:werkzeug:127.0.0.1 - - [08/May/2025 00:24:06] "GET /api/jobs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/May/2025 00:24:10] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [08/May/2025 00:25:40] "[35m[1mPOST /api/jobs HTTP/1.1[0m" 201 -
+INFO:werkzeug:127.0.0.1 - - [08/May/2025 00:25:40] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:werkzeug:127.0.0.1 - - [08/May/2025 00:26:11] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [08/May/2025 00:26:40] "GET /api/jobs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/May/2025 00:26:40] "GET /api/jobs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/May/2025 00:26:41] "GET /static/uploads/legal-and-general.jpg HTTP/1.1" 200 -
+INFO:root:Scraping complete.
