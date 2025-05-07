@@ -2539,3 +2539,16 @@ INFO:werkzeug: * Restarting with stat
 INFO:root:Scheduler started
 WARNING:werkzeug: * Debugger is active!
 INFO:werkzeug: * Debugger PIN: 142-016-717
+INFO:werkzeug:127.0.0.1 - - [08/May/2025 01:40:20] "GET /api/jobs HTTP/1.1" 200 -
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
+INFO:werkzeug:127.0.0.1 - - [08/May/2025 01:40:59] "GET /api/jobs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/May/2025 01:40:59] "GET /api/jobs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/May/2025 01:40:59] "[36mGET /static/uploads/legal-and-general.jpg HTTP/1.1[0m" 304 -
+INFO:root:Scraping started
+INFO:root:Scraping started
+INFO:werkzeug:127.0.0.1 - - [08/May/2025 01:42:21] "[36mGET /static/uploads/legal-and-general.jpg HTTP/1.1[0m" 304 -
+INFO:root:Scraping complete.
+INFO:root:Scraping complete.
