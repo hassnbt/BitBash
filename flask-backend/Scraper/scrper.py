@@ -89,10 +89,10 @@ def scrape_jobs():
                     posted_date = datetime.now()
 
                 # Check for duplicate job (based on job link)
-                existing_job = session.query(Job).filter_by(link=link).first()
-                if existing_job:
-                    print(f"\n--- Job Already Exists ---\nLink: {link}")
-                    continue
+                # existing_job = session.query(Job).filter_by(link=link).first()
+                # if existing_job:
+                #     print(f"\n--- Job Already Exists ---\nLink: {link}")
+                #     continue
 
                 # Create and store job
                 job_entry = Job(
